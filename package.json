@@ -1,0 +1,19 @@
+{
+  "name": "cs-361-microservice-d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "microservice-d-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "ethereal": "^3.5.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
